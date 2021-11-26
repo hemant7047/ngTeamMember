@@ -1,3 +1,16 @@
+new repository------------------------------------------
+git init
+git add .
+git commit -m 'comment here'
+git branch -M main
+git push -u origin main
+
+existing repo------------------------------------------------
+git add .
+git commit -m 'comment here'
+git push
+
+
 # TeamApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
