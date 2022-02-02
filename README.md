@@ -3,6 +3,7 @@ git init
 git add .
 git commit -m 'comment here'
 git branch -M main
+git remote add origin (paste link whoes given by git repo);
 git push -u origin main
 
 existing repo------------------------------------------------
